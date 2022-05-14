@@ -1,7 +1,7 @@
 <?php
 /**
  * Módulo que contiene funciones útiles para números
- * @author Juan Manuel De la flor López <juanma1331@gmail.com>
+ * @author Juan Manuel De la flor López <juanma131313@gmail.com>
  * @version 1.0
  */
 
